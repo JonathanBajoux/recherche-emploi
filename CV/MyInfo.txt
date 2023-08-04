@@ -11,4 +11,6 @@ counterstrike
 
 les film:
 avatar
-harrypotter
+harry potter
+Fast and Furious
+Ready player one
